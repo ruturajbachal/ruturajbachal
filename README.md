@@ -18,4 +18,4 @@
 <h3 align="left">Support:</h3>
 
 
-<p>&nbsp;<a href="https://github.com/ruturajbachal" alt="Ruturaj Bachal"/> </a> </p>
+<p>&nbsp;<img align="center" src="https://github.com/ruturajbachal" alt="Ruturaj Bachal"/> </p>
