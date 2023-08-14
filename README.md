@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruturaj Bachal </h1>
+<h1 align="center">Hi 👋, I'm Ruturaj </h1>
 <h3 align="center">A passionate Front End Developer </h3>
 
 <img align="right" alt="coding" width="400" src="https://www.darwinrecruitment.com/wp-content/uploads/2021/10/About-us-Temp-to-Perm.gif">
